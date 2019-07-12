@@ -1,4 +1,4 @@
-apl=input()
+alp=input()
 if alp.isdigit():
   print("invalid")
 else:
