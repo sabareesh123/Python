@@ -1,0 +1,2 @@
+mee=input()
+print(mee)
